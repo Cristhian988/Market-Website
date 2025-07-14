@@ -229,7 +229,7 @@ export default function ProductPage({ params }: ProductPageProps) {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               <div className="flex items-center space-x-2 text-sm">
                 <Truck className="w-4 h-4 text-green-600" />
-                <span>Envío gratis +$50</span>
+                <span>Envío gratis +S/.50</span>
               </div>
               <div className="flex items-center space-x-2 text-sm">
                 <Shield className="w-4 h-4 text-green-600" />

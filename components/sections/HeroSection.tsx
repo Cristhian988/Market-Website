@@ -32,14 +32,14 @@ export function HeroSection() {
             href={"/productos"}
             className="group flex items-center gap-2 px-7 md:px-9 py-3 bg-green-600 hover:bg-[#44ae7c] transition rounded text-white cursor-pointer"
           >
-            Shop now{" "}
+            Comprar ahora{" "}
             
           </Link>
           <Link
             href={"/productos"}
             className="group hidden md:flex items-center gap-2 px-9 py-3cursor-pointer"
           >
-            Explore deals{" "}
+            Ver ofertas{" "}
             <ArrowRightIcon className="w-5 h-5 transition group-hover:translate-x-1" />
           </Link>
         </div>
