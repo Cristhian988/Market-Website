@@ -80,9 +80,9 @@ export function OffersSection() {
         </div>
 
         <div className="bg-[#f1c232] border border-yellow-200 rounded-lg px-6 py-2 text-center">
-          <h3 className="text-xl font-bold text-[#7f6000] mb-2">⚡ Ofertas Flash</h3>
+          <h3 className="text-xl font-bold text-[#7f6000] mb-2">⚡ OFERTAS FLASH - Solo por Hoy</h3>
           <p className="text-yellow-700 mb-4">
-            Suscríbete a nuestras notificaciones para recibir ofertas exclusivas por tiempo muy limitado
+            Activa las notificaciones y sé el primero en acceder a descuentos de hasta 70% OFF. ¡Quedan pocas horas!
           </p>
         </div>
       </div>
