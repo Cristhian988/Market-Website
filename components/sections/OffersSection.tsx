@@ -26,8 +26,9 @@ export function OffersSection() {
     <section className="py-16 bg-gradient-to-r from-red-50 to-orange-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">% Ofertas Especiales</h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">Aprovecha nuestros descuentos por tiempo limitado</p>
+          <small className="text-sm text-gray-600 mb-2.5">¡Solo por tiempo limitado!</small>
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">🔥 ¡AHORRA HASTA 70%! 🔥</h2>
+          <p className="text-lg text-gray-600 max-w-2xl mx-auto">Los precios más bajos en productos frescos y de primera calidad</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
